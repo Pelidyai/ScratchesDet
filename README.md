@@ -1,1 +1,2 @@
 # ScratchesDet
+ща все буит
